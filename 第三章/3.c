@@ -8,5 +8,5 @@ int main(void)
     printf("exponential notation : %e\n",a);
     printf("p notation : %a\n",a);//%a——打印成十六进制形式（p计数法）
 
-    return 0;
+    return 0; 
 }

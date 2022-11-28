@@ -7,5 +7,5 @@ int main(void)
     scanf("%d",&a);
     printf("%.0f\n",1.0*a*n);
 
-    return 0;
+    return 0; 
 }
