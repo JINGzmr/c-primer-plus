@@ -20,3 +20,26 @@ int main()
 
     return 0;
 }
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     char a[27]="ABCDEFGHIJKLMNOPPQRSTUVWXYZ";
+//     char x;
+//     scanf("%c",&x);
+//     int i,j,n=x-'A',t;
+//     int y=n;
+//     for(i=n;i>=0;i--){
+//         t=y-i+1;
+//         n=y;
+//         while(t>0){
+//             printf("%c",a[n]);
+//             n--;
+//             t--;
+//         }
+//         printf("\n");
+//     }
+
+//     return 0;
+// }
